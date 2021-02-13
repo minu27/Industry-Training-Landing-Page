@@ -43,7 +43,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/phoenix-1-2/Mentor-Website-1.git
+    $ git clone https://github.com/phoenix-1-2/Mentor-Website-2.git
     $ cd Landing-Page
     $ npm install
 
