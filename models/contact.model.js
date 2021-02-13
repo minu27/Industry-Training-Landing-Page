@@ -1,5 +1,5 @@
 let mongoose = require('mongoose')
-mongoose.connect("mongodb+srv://ibullreport:IBRpass2000@clusteribr.e4dky.mongodb.net/financeContact?retryWrites=true&w=majority", {'useNewUrlParser': true})
+mongoose.connect("mongodb+srv://ibullreport:IBRpass2000@clusteribr.e4dky.mongodb.net/workshopContact?retryWrites=true&w=majority", {'useNewUrlParser': true})
 mongoose.set('useCreateIndex', true);
 
 let CustomerSchema = new mongoose.Schema({
