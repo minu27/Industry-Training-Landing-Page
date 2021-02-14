@@ -1,4 +1,4 @@
-# Mentors Landing Page
+# Industry Training Landing Page
 
 ---
 ## Requirements
